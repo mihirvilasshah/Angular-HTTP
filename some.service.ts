@@ -11,7 +11,7 @@ import { map, tap, catchError, retry } from 'rxjs/operators';
 // };
 
 export class SomeService {
-    private apiUrl = '/api/name';  // URL to web api = domain/endpoint
+    private apiUrl = './sample.json';  // URL to web api = domain/endpoint
 
 
 
