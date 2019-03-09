@@ -1,0 +1,9 @@
+Working with HTTP
+==================
+HTTP Get request from Service
+Receive observable and cast it approriate format
+Subscribe to observable in necessary components
+Assign the response to local variable
+
+
+observable - sequence of items that arrive asynchronously
