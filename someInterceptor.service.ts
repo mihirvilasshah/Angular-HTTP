@@ -9,7 +9,6 @@ const httpOptions = {
     params: new HttpParams().append('key', 'value').append('key2', 'value2')
 };
 
-@Injectable({ providedIn: root })
 export class SomeInterceptorService implements HttpInterceptor {
 
     constructor() { }
